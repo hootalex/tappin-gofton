@@ -1,0 +1,28 @@
+body {
+  font-family: Georgia, serif;
+  margin: 50px;
+  max-width: 600px;
+  background-color: #ece5e2;
+    color: #da0000;
+}
+
+a {
+  color: #da0000;
+  text-decoration: none;
+  border-bottom: 1px solid #da0000;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+hr {
+  border: 0;
+    border-bottom: 1px solid #da0000;
+}
+
+p {
+  font-size: 24px;
+  line-height: 33px;
+}
