@@ -4,6 +4,8 @@ body {
   max-width: 600px;
   background-color: #ece5e2;
     color: #da0000;
+  -webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
 
 a {
