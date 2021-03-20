@@ -11,9 +11,9 @@ body {
 }
 
 a {
-  background-color: #da0000;
-  color: #ece5e2;
+  color: #da0000;
   text-decoration: none;
+  border-bottom: 1px dashed #da0000; 
 
 }
 
